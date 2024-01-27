@@ -10,7 +10,7 @@
 - [Score and Life System](#score-and-life-system)
 - [Technical Details](#technical-details)
 - [Getting Started](#getting-started)
-- 
+
 ## Introduction
 Designed for casual gamers, "SimpleDrivingCar" features user-friendly touch controls, 3D graphics, and various levels of difficulty. The game's core mechanics include scoring points through gameplay and managing the player's lives.
 
